@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI – Thukha Patient Mini Chatbot",
+  "description": "A mini patient chatbot for Thukha Medical Center, providing basic health Q&A and OTC medicine advice using Gemini AI. It communicates in Myanmar and English, triages symptoms, and provides structured data for logging.",
+  "requestFramePermissions": []
+}
